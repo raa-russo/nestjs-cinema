@@ -1,6 +1,6 @@
 # API de Cinema PBs
 
-Esta API de back-end foi desenvolvida para um projeto para a ua do professor Navas, para nota de DB.
+Esta API de back-end foi desenvolvida para um projeto para aula do professor Navas, para nota de DB.
 ## Executando localmente
 Após baixar o projeto na sua máquina, rodar:
 ```
